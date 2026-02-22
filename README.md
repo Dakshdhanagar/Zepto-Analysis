@@ -16,7 +16,7 @@ The analysis includes:
 
 ## 📂 Datasets Used
 
-### 1️⃣ sales_csv
+### 1️⃣ sales_csv  ( 220220 entries)
 Contains transactional sales data with the following fields:
 - Order ID
 - Product ID
@@ -26,7 +26,7 @@ Contains transactional sales data with the following fields:
 - Extracted Month
 - Extracted Hour
 
-### 2️⃣ product_csv
+### 2️⃣ product_csv ( 38 entries)
 Contains product-related information:
 - Product ID
 - Product Name
@@ -73,7 +73,7 @@ Meet me on Linkdin -> www.linkedin.com/in/daksh-dhanagar
 
 ⭐ If you like this project, give it a star on GitHub!
 
-<img width="897" height="499" alt="image" src="https://github.com/user-attachments/assets/7c16ce6a-0cbd-425f-827c-627de0a8bfc9" />
-<img width="1443" height="718" alt="image" src="https://github.com/user-attachments/assets/e0e72de0-f1f0-433c-8889-39ef18aa2100" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7c16ce6a-0cbd-425f-827c-627de0a8bfc9" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/e0e72de0-f1f0-433c-8889-39ef18aa2100" />
 
 
