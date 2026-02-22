@@ -73,7 +73,7 @@ Meet me on Linkdin -> www.linkedin.com/in/daksh-dhanagar
 
 ⭐ If you like this project, give it a star on GitHub!
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7c16ce6a-0cbd-425f-827c-627de0a8bfc9" />
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/e0e72de0-f1f0-433c-8889-39ef18aa2100" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7c16ce6a-0cbd-425f-827c-627de0a8bfc9" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e0e72de0-f1f0-433c-8889-39ef18aa2100" />
 
 
