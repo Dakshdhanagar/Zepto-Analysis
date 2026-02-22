@@ -49,6 +49,7 @@ Contains product-related information:
 - Found peak sales hours.
 - Analyzed monthly revenue trends.
 - Checked duplicate product IDs.
+- Total sales by Product category
 
 ---
 
