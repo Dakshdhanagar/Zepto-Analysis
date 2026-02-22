@@ -67,6 +67,7 @@ Contains product-related information:
 
 ## 📌 Author
 Daksh Dhanagar
+Meet me on Linkdin -> www.linkedin.com/in/daksh-dhanagar
 
 ---
 
