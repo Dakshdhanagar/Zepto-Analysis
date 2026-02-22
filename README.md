@@ -1,7 +1,9 @@
 # 🛒 Zepto Sales Analysis
 
 ## 📌 Project Overview
-This project analyzes Zepto sales data to understand sales trends, customer behavior, and business performance.
+This project performs an end-to-end exploratory data analysis (EDA) on Zepto's sales and product datasets to uncover meaningful business insights.
+
+The analysis focuses on sales performance, customer purchasing patterns, product trends, and time-based revenue insights using data visualization techniques.
 
 The analysis includes:
 - 📊 Sales by City
@@ -12,14 +14,24 @@ The analysis includes:
 
 ---
 
-## 📂 Dataset Information
-The dataset contains:
+## 📂 Datasets Used
+
+### 1️⃣ sales_csv
+Contains transactional sales data with the following fields:
 - Order ID
 - Product ID
 - City
 - Order Date & Time
 - Total Amount
-- Month & Hour extracted from datetime
+- Extracted Month
+- Extracted Hour
+
+### 2️⃣ product_csv
+Contains product-related information:
+- Product ID
+- Product Name
+- Category
+- Price
 
 ---
 
